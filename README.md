@@ -6,13 +6,13 @@ While this is not a srict fork, most of the initial plugins I got from Jake. I d
 
 To properly use this:
 
-* Unpack the .vim  entire directory into ~/.vim
+* Unpack the *.vim*  entire directory into *~/.vim*
 * Be sure to install a version of ctags
-* Install vim-plug:
+* Install **vim-plug**:
 ```bash
     $ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 ```
 * Then either soft link ~/.vimrc => ~/.vim/vimrc.vim  or copy vimrc.vim to your ~/.vimrc
 * Also for most beautiful results, add Menlo for Powerline (move the .fonts dir to your ~/.fonts dir)
-* Reload .vimrc and peform *:PlugInstall* to install the plugins
+* Reload .vimrc and perform *:PlugInstall* to install the plugins
