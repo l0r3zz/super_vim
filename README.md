@@ -15,7 +15,9 @@ To properly use this:
 ```
 * Then either soft link ~/.vimrc => ~/.vim/vimrc.vim  or copy vimrc.vim to your ~/.vimrc
 * Also for most beautiful results, add Menlo for Powerline (move the .fonts dir to your ~/.fonts dir)
-* Reload .vimrc (Ignore the error messages about ```E117: Unknown function: SyntasticStatuslineFlag
-E15: Invalid expression: SyntasticStatuslineFlag()``` for now )
+* Reload .vimrc (Ignore the error messages about 
+ ```E117: Unknown function: SyntasticStatuslineFlag
+E15: Invalid expression: SyntasticStatuslineFlag()``` 
+for now )
 
 * Now perform *:PlugClean!* followed by a  *:PlugInstall* to install the plugins
