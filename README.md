@@ -2,7 +2,7 @@
 .vim directory with vimrc, plugins, .font dir with modified font - ready to load into your home_dir
 
 This started when I found the great "Vim as IDE" repository by Jake Zimmerman : https://github.com/jez/vim-as-an-ide
-While this is not a srict fork, most of the initial plugins I got from Jake. I do use vim-plug to manage my plug-ins, Jake's instructions talk about Vundle and he personally uses Pathogen.
+While this is not a strict fork, most of the initial plugins I got from Jake. I do use vim-plug to manage my plug-ins, Jake's instructions talk about Vundle and he personally uses Pathogen.
 
 To properly use this:
 
