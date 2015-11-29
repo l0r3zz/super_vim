@@ -1,0 +1,3 @@
+# This snippit sllows one to scroll up when your in a screen and using terminal emulators like terminator
+# While not strictly a vim hack, will save you some time hanting for the solution on line
+termcapinfo xterm* ti@:te@
