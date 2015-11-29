@@ -26,6 +26,9 @@ for now )
 
 Now that everything is installed, It might be a good idea to delve into the finer points of vim:
 
-Learning VIM in 2014: http://benmccormick.org/learning-vim-in-2014/   Still a great resource.
+* Learning VIM in 2014: http://benmccormick.org/learning-vim-in-2014/   Still a great resource.
+* 25 vim resources:http://code.tutsplus.com/articles/25-vim-tutorials-screencasts-and-resources--net-14631
 
-25 vim resources:http://code.tutsplus.com/articles/25-vim-tutorials-screencasts-and-resources--net-14631
+---
+#### Optional Hacks
+* Move the .screenrc file into ~/.screenrc to allow for scrolling when your in screen on a terminal emulator like terminator
