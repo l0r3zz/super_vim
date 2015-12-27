@@ -47,7 +47,14 @@ Plug 'sheerun/vim-polyglot'
 " Disable Python in Polygot so we can install...
 let g:polyglot_disabled = ['python']
 Plug 'klen/python-mode'
-" Dint forget the "pip install jedi" if your going to use jedi-vim
+
+" Uncomment below if you want to use vim-go
+"let g:polyglot_disabled = ['go']
+"Plug 'fatih/vim-go'
+
+" Don't forget to run :GoInstallBinaries after installation
+
+" Don't forget the "pip install jedi" if your going to use jedi-vim
 Plug 'davidhalter/jedi-vim'
 
 call plug#end()
