@@ -22,6 +22,7 @@ E15: Invalid expression: SyntasticStatuslineFlag()```
 for now )
 
 * Now perform *:PlugClean!* followed by a  *:PlugInstall* to install the plugins
+* If you're gonna be slinging golang perform a *:GoInstallBinaries* to load the extra tools 
 * You're ready to roll!
 
 Now that everything is installed, It might be a good idea to delve into the finer points of vim:
