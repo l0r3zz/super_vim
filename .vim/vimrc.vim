@@ -31,6 +31,8 @@ Plug 'kien/ctrlp.vim'
 Plug 'vim-scripts/a.vim'
 Plug 'ntpeters/vim-better-whitespace'
 
+" ----- Working with docker -------------------------------------------
+Plug 'ekalinin/Dockerfile.vim'
 " ----- Working with Git ----------------------------------------------
 Plug 'airblade/vim-gitgutter'
 Plug 'tpope/vim-fugitive'

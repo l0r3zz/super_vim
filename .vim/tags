@@ -1,0 +1,37 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+<leader>b	/home/l0r3zz/srv/git/super_vim/.vim/vimrc.vim	/^nmap <silent> <leader>b :TagbarToggle<CR>$/;"	m	language:Vim
+<leader>t	/home/l0r3zz/srv/git/super_vim/.vim/vimrc.vim	/^nmap <silent> <leader>t :NERDTreeTabsToggle<CR>$/;"	m	language:Vim
+delimitMate_expand_cr	/home/l0r3zz/srv/git/super_vim/.vim/vimrc.vim	/^let delimitMate_expand_cr = 1$/;"	v	language:Vim
+g:airline#extensions#hunks#non_zero_only	/home/l0r3zz/srv/git/super_vim/.vim/vimrc.vim	/^let g:airline#extensions#hunks#non_zero_only = 1$/;"	v	language:Vim
+g:airline#extensions#tabline#enabled	/home/l0r3zz/srv/git/super_vim/.vim/vimrc.vim	/^let g:airline#extensions#tabline#enabled = 1$/;"	v	language:Vim
+g:airline_detect_paste	/home/l0r3zz/srv/git/super_vim/.vim/vimrc.vim	/^let g:airline_detect_paste=1$/;"	v	language:Vim
+g:easytags_async	/home/l0r3zz/srv/git/super_vim/.vim/vimrc.vim	/^let g:easytags_async = 1$/;"	v	language:Vim
+g:easytags_dynamic_files	/home/l0r3zz/srv/git/super_vim/.vim/vimrc.vim	/^let g:easytags_dynamic_files = 2$/;"	v	language:Vim
+g:easytags_events	/home/l0r3zz/srv/git/super_vim/.vim/vimrc.vim	/^let g:easytags_events = ['BufReadPost', 'BufWritePost']$/;"	v	language:Vim
+g:easytags_resolve_links	/home/l0r3zz/srv/git/super_vim/.vim/vimrc.vim	/^let g:easytags_resolve_links = 1$/;"	v	language:Vim
+g:easytags_suppress_ctags_warning	/home/l0r3zz/srv/git/super_vim/.vim/vimrc.vim	/^let g:easytags_suppress_ctags_warning = 1$/;"	v	language:Vim
+g:nerdtree_tabs_open_on_console_startup	/home/l0r3zz/srv/git/super_vim/.vim/vimrc.vim	/^let g:nerdtree_tabs_open_on_console_startup = 0$/;"	v	language:Vim
+g:polyglot_disabled	/home/l0r3zz/srv/git/super_vim/.vim/vimrc.vim	/^let g:polyglot_disabled = ['python', 'go']$/;"	v	language:Vim
+g:pymode_breakpoint	/home/l0r3zz/srv/git/super_vim/.vim/vimrc.vim	/^let g:pymode_breakpoint = 1$/;"	v	language:Vim
+g:pymode_breakpoint_bind	/home/l0r3zz/srv/git/super_vim/.vim/vimrc.vim	/^let g:pymode_breakpoint_bind = '<leader>b'$/;"	v	language:Vim
+g:pymode_doc	/home/l0r3zz/srv/git/super_vim/.vim/vimrc.vim	/^let g:pymode_doc = 1$/;"	v	language:Vim
+g:pymode_doc_key	/home/l0r3zz/srv/git/super_vim/.vim/vimrc.vim	/^let g:pymode_doc_key = 'K'$/;"	v	language:Vim
+g:pymode_folding	/home/l0r3zz/srv/git/super_vim/.vim/vimrc.vim	/^let g:pymode_folding = 0$/;"	v	language:Vim
+g:pymode_lint	/home/l0r3zz/srv/git/super_vim/.vim/vimrc.vim	/^let g:pymode_lint = 1$/;"	v	language:Vim
+g:pymode_lint_checker	/home/l0r3zz/srv/git/super_vim/.vim/vimrc.vim	/^let g:pymode_lint_checker = "pyflakes,pep8"$/;"	v	language:Vim
+g:pymode_lint_write	/home/l0r3zz/srv/git/super_vim/.vim/vimrc.vim	/^let g:pymode_lint_write = 1$/;"	v	language:Vim
+g:pymode_rope	/home/l0r3zz/srv/git/super_vim/.vim/vimrc.vim	/^let g:pymode_rope = 0$/;"	v	language:Vim
+g:pymode_syntax	/home/l0r3zz/srv/git/super_vim/.vim/vimrc.vim	/^let g:pymode_syntax = 1$/;"	v	language:Vim
+g:pymode_syntax_all	/home/l0r3zz/srv/git/super_vim/.vim/vimrc.vim	/^let g:pymode_syntax_all = 1$/;"	v	language:Vim
+g:pymode_syntax_indent_errors	/home/l0r3zz/srv/git/super_vim/.vim/vimrc.vim	/^let g:pymode_syntax_indent_errors = g:pymode_syntax_all$/;"	v	language:Vim
+g:pymode_syntax_space_errors	/home/l0r3zz/srv/git/super_vim/.vim/vimrc.vim	/^let g:pymode_syntax_space_errors = g:pymode_syntax_all$/;"	v	language:Vim
+g:pymode_virtualenv	/home/l0r3zz/srv/git/super_vim/.vim/vimrc.vim	/^let g:pymode_virtualenv = 1$/;"	v	language:Vim
+g:syntastic_always_populate_loc_list	/home/l0r3zz/srv/git/super_vim/.vim/vimrc.vim	/^let g:syntastic_always_populate_loc_list = 1$/;"	v	language:Vim
+g:syntastic_auto_loc_list	/home/l0r3zz/srv/git/super_vim/.vim/vimrc.vim	/^let g:syntastic_auto_loc_list = 1$/;"	v	language:Vim
+g:syntastic_check_on_open	/home/l0r3zz/srv/git/super_vim/.vim/vimrc.vim	/^let g:syntastic_check_on_open = 1$/;"	v	language:Vim
+g:syntastic_check_on_wq	/home/l0r3zz/srv/git/super_vim/.vim/vimrc.vim	/^let g:syntastic_check_on_wq = 0$/;"	v	language:Vim
+g:syntastic_error_symbol	/home/l0r3zz/srv/git/super_vim/.vim/vimrc.vim	/^let g:syntastic_error_symbol = '✘'$/;"	v	language:Vim
+g:syntastic_warning_symbol	/home/l0r3zz/srv/git/super_vim/.vim/vimrc.vim	/^let g:syntastic_warning_symbol = "▲"$/;"	v	language:Vim
+K	/home/l0r3zz/srv/git/super_vim/.vim/vimrc.vim	/^noremap K :SuperMan <cword><CR>$/;"	m	language:Vim
+mydelimitMate	/home/l0r3zz/srv/git/super_vim/.vim/vimrc.vim	/^augroup mydelimitMate$/;"	a	language:Vim
+mySyntastic	/home/l0r3zz/srv/git/super_vim/.vim/vimrc.vim	/^augroup mySyntastic$/;"	a	language:Vim
